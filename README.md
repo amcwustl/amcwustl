@@ -22,7 +22,5 @@ Welcome to my GitHub profile! My software development journey began when I manag
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amcwustl&show_icons=true&locale=en&layout=compact" alt="amcwustl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amcwustl&show_icons=true&locale=en" alt="amcwustl" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amcwustl&show_icons=true&locale=en&layout=compact" alt="amcwustl" /></p>
 
